@@ -16,7 +16,6 @@ router.post('/register', Register)
 
 router.post('/login', Login)
 
-
 // router.get('/view-product', UserAuth, Viewproduct) --old
 // router.get('/view-product/:id', UserAuth, Viewproduct) --old
 
